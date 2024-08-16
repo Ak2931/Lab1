@@ -3,7 +3,7 @@ package assignment27;
 public class TriangleAngle
 {
 	public static void main(String args[]) {
-	       Scanner in = new Scanner(System.in);
+	       Sanner in = new Scanner(System.in);
 	       System.out.print("Enter first angle: ");
 	       int a1 = in.nextInt();
 	       System.out.print("Enter second angle: ");
